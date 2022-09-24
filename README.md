@@ -1,2 +1,2 @@
 # l2-github-actions-SevarJafarli
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![Java CI with Gradle](https://github.com/bhos-qa/l2-github-actions-SevarJafarli/actions/workflows/gradle.yml/badge.svg?branch=feature%2Flab2)](https://github.com/bhos-qa/l2-github-actions-SevarJafarli/actions/workflows/gradle.yml)
