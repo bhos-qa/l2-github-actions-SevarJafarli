@@ -1,1 +1,2 @@
 # l2-github-actions-SevarJafarli
+[![Java CI with Gradle](https://github.com/bhos-qa/l2-github-actions-SevarJafarli/actions/workflows/gradle.yml/badge.svg?branch=feature%2Flab2)](https://github.com/bhos-qa/l2-github-actions-SevarJafarli/actions/workflows/gradle.yml)
